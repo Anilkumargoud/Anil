@@ -26,7 +26,7 @@
 
      <snapshotRepository>
      <id>anilkumar</id>
-    <url>http://34.216.71.38:8081/nexus/content/repositories/anilkumar/</url>
+    <url>http://54.190.59.164:8081/nexus/content/repositories/anilkumar/</url>
 </snapshotRepository>
   </distributionManagement>
 </project>
